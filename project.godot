@@ -14,7 +14,3 @@ config/name="godotsteam_issue438_demo"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
-
-[physics]
-
-3d/physics_engine="JoltPhysics3D"
